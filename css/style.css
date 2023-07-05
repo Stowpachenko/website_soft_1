@@ -68,7 +68,7 @@ body {
 
 /* wrapper */
 .wrapper {
-  background-image: url('./img/banner/Rectangle.jpg');
+  background-image: url('../img/banner/Rectangle.jpg');
   background-repeat: no-repeat;
   background-size: contain;
   /* height: 940px; */
